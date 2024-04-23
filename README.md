@@ -194,8 +194,8 @@ buttons.forEach((button) => {
 });
 ```
 ## OUTPUT:
-![Screenshot 2024-04-23 142416](https://github.com/Narasimhan05/Calc/assets/132819871/f55c16cb-92a7-401a-9a96-da4af8721726)
 ![Screenshot 2024-04-23 142405](https://github.com/Narasimhan05/Calc/assets/132819871/fe9b8593-780d-4155-a32f-3d413b323df0)
+![Screenshot 2024-04-23 142416](https://github.com/Narasimhan05/Calc/assets/132819871/f55c16cb-92a7-401a-9a96-da4af8721726)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
